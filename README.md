@@ -18,34 +18,35 @@
 
 ---
 
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" />
-
 ## 🚀 About Me
-Hi! I'm **Abdelrahman**, a passionate **Backend Developer** specializing in **.NET & C#**.  
-I love building **efficient, maintainable, and scalable applications**.  
+I’m **Abdelrahman**, a passionate **Backend Developer** specializing in **.NET & C#**.  
+I focus on building **clean, scalable, and maintainable applications**, while sharing my knowledge with others through content creation.  
 
-Currently, I’m focused on backend development, exploring **advanced .NET techniques**, and preparing to become a **coding mentor**.  
-I also create educational content through **CodeMark**, simplifying programming for beginners.  
+Currently, I am:
+- Developing **backend solutions** with .NET & C#  
+- Exploring advanced programming concepts and best practices  
+- Preparing to become a **coding mentor**  
+- Sharing tutorials and practical guides via **CodeMark**  
 
-**Skills & Expertise:**  
+**Skills & Tools:**  
 - **Languages & Frameworks:** C#, OOP, SQL, ASP.NET Core, HTML, CSS, JS  
 - **Tools & Platforms:** Git, GitHub, VS Code, Visual Studio  
-- **Soft Skills:** Problem-solving, clean code practices, mentoring, content creation  
+- **Soft Skills:** Problem-solving, clean code practices, mentoring  
 
 ---
 
 ## 🔥 Highlights
 - 💻 Developed multiple **backend projects** using .NET & C#  
-- 🌱 Continuously exploring **new technologies and tools**  
+- 🌱 Continuously learning and exploring **new technologies**  
 - 🎯 Preparing to **mentor upcoming developers**  
 - 📚 Creating **educational content** via CodeMark  
-- 🧩 Focused on **clean architecture and reusable components**  
+- 🧩 Focused on **clean architecture** and reusable components  
 
 ---
 
 ## 🧰 Tech Toolbox
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=csharp,cpp,java,python,git,github,vscode,html,css,js,sql" height="60"/></a>
+  <img src="https://skillicons.dev/icons?i=csharp,cpp,java,python,git,github,vscode,html,css,js,sql" height="60"/>
 </p>
 
 ---
@@ -58,12 +59,12 @@ I also create educational content through **CodeMark**, simplifying programming 
 
 ---
 
-## 🎬 My YouTube Focus
-- ✅ Backend development tutorials (.NET & C#)  
+## 🎬 YouTube Focus
+- ✅ Backend tutorials (.NET & C#)  
 - ✅ Real-world application examples  
 - ✅ Problem-solving guides in C# & SQL  
 - ✅ Tips for Git, VS Code, and productivity  
-- ✅ Free projects and walkthroughs for beginners  
+- ✅ Educational projects for beginners  
 
 ▶️ [**CodeMark YouTube**](https://www.youtube.com/@codemarkx)
 
@@ -72,7 +73,4 @@ I also create educational content through **CodeMark**, simplifying programming 
 ## ⚡ Motto
 > **“Code & Create.”**
 
----
-
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" />
 
