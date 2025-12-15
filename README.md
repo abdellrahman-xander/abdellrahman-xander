@@ -46,7 +46,7 @@ Currently, I am:
 
 ## 🧰 Tech Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=csharp,cpp,java,python,git,github,vscode,html,css,js,sql" height="60"/>
+   <img src="https://skillicons.dev/icons?i=csharp,cpp,dotnet,python,git,github,vscode,html,css,js,sql" height="60"/>
 </p>
 
 ---
