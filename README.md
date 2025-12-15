@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Facebook-1B1B1B?style=for-the-badge&logo=facebook&logoColor=#00BFFF"/>
   </a>
   <a href="https://www.youtube.com/@codemarkx">
-    <img src="https://img.shields.io/badge/YouTube-1B1B1B?style=for-the-badge&logo=youtube&logoColor=#00BFFF"/>
+    <img src="https://img.shields.io/badge/YouTube-CodeMark-1B1B1B?style=for-the-badge&logo=youtube&logoColor=#00BFFF"/>
   </a>
 </p>
 
@@ -21,20 +21,25 @@
 <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
 
 ## 🚀 About Me
-I am a passionate **Backend Developer** specialized in **.NET & C#**.  
-I love creating clean, maintainable code and sharing knowledge through content creation.  
-Currently building my expertise in backend solutions and preparing to become a coding mentor.  
+Hi! I'm **Abdelrahman**, a passionate **Backend Developer** specializing in **.NET & C#**.  
+I love **creating efficient and maintainable code**, building real-world applications, and sharing my knowledge with others.  
 
-**Skills & Tools:**  
-C#, OOP, SQL, ASP.NET Core, Git, HTML, CSS, JS  
+Currently, I’m focused on **backend development**, learning advanced techniques, and preparing to become a **coding mentor**.  
+I also create content through my platform **CodeMark**, sharing tutorials and tips to make coding simpler and more accessible.  
+
+**Skills & Expertise:**  
+- **Languages & Frameworks:** C#, OOP, SQL, ASP.NET Core, HTML, CSS, JS  
+- **Tools & Platforms:** Git, GitHub, VS Code, Visual Studio  
+- **Soft Skills:** Problem-solving, clean code practices, mentoring  
 
 ---
 
 ## 🔥 Highlights
-- 💻 Developing projects with **.NET & C#**  
-- 📚 Exploring and mastering backend development  
-- 🎯 Preparing to guide and mentor upcoming developers  
-- 🌱 Continuously learning new technologies and improving coding practices  
+- 💻 Developed multiple **backend projects** using .NET & C#  
+- 🌱 Continuously learning and exploring new technologies  
+- 🎯 Preparing to mentor upcoming developers and share knowledge  
+- 📚 Creating educational content through **CodeMark**  
+- 🧩 Focused on **clean architecture** and reusable components  
 
 ---
 
@@ -53,6 +58,20 @@ C#, OOP, SQL, ASP.NET Core, Git, HTML, CSS, JS
 
 ---
 
+## 🎬 My YouTube Focus
+- ✅ Backend development tutorials (.NET & C#)  
+- ✅ Real-world application examples  
+- ✅ Problem-solving guides  
+- ✅ Tips for Git, VS Code, and productivity  
+- ✅ Educational projects for beginners  
+
+▶️ Check it out: [**CodeMark YouTube**](https://www.youtube.com/@codemarkx)
+
+---
+
 ## ⚡ Motto
 > **“Code & Create.”**
 
+---
+
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" />
